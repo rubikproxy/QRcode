@@ -7,4 +7,5 @@
 <p>Copy and Paste the command in CMD</p>
 ```
 pip install qrcode
+
 ```
